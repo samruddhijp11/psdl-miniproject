@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "108504839354",
+    "project_id": "myapp-31ed5",
+    "storage_bucket": "myapp-31ed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108504839354:android:cd883d52258502ab38fe83",
+        "android_client_info": {
+          "package_name": "com.example.bookcave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdcjyhgtlz38aDGutSpBGIORe32NxAovQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
